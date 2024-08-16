@@ -26,6 +26,5 @@
 ## DISCLAIMER
 <p align="center">
  TO BE USED FOR EDUCATIONAL PURPOSES ONLY
-
-join us on telegram https://t.me/anonyducoo
+For the full project, you can get it at https://t.me/anonyducoo
 </p>
